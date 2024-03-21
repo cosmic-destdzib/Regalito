@@ -59,8 +59,8 @@ body {
     color: red;
     text-align: left;
     font-size: 30;
-    height: 400px;
-    width: 700%;
+    height: 500px;
+    width: 600%;
     position: absolute;
     top: 10%;
     left: 0%;
@@ -69,8 +69,8 @@ body {
     color: red;
     text-align: left;
     font-size: 30;
-    height: 400px;
-    width: 700px;
+    height: 500px;
+    width: 600px;
     position: absolute;
     top: 17%;
     left: 0%;
@@ -78,7 +78,7 @@ body {
     color: red;
     text-align: left;
     font-size: 30;
-    height: 400px;
+    height: 500px;
     width: 500px;
     position: absolute;
     top: 22%;
