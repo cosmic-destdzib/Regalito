@@ -46,3 +46,51 @@ body {
   border-bottom-right-radius: 200px;
   border-top-left-radius: 200px;
 }
+.tit{
+    color: blue;
+    font-size: 70;
+    height: 500px;
+    width: 600px;
+    position: absolute;
+    top: 1%;
+    left: 0%;
+}
+.par{
+    color: red;
+    text-align: left;
+    font-size: 30;
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+}
+.par2{
+    color: red;
+    text-align: left;
+    font-size: 30;
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    top: 13%;
+    left: 0%;
+}.par3{
+    color: red;
+    text-align: left;
+    font-size: 30;
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    top: 16%;
+    left: 0%;
+}
+.par4{
+    color: rgb(23, 251, 243);
+    text-align: left;
+    font-size: 20;
+    height: 400px;
+    width: 500px;
+    position: absolute;
+    top: 95%;
+    left: 0%;
+}
